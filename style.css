@@ -1,0 +1,13 @@
+
+            h2{
+                color: black;
+            
+            }
+            .highlight{ border: solid;
+                        border-color: black;
+            }
+            #profile{
+                border: solid;
+                border-color: blue;
+            }
+    
